@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://igor-kolodziej.github.io/sitemap.xml
+
